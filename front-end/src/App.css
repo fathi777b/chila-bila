@@ -190,3 +190,38 @@ body {
   height: 100%;
 
 }
+
+.iconR{
+  position: absolute;
+  margin-left: 690px;
+  margin-top: -49px;
+  
+}
+
+
+.real{
+  margin-left: 677px;
+  background-color: #e8b7ef;
+  padding: 8px;
+  border-radius: 10px 5px;
+  width: 180px;
+  box-shadow: 2px 5px 4px;
+  
+}
+
+.real h1{
+  margin-left: 50px;
+ font-family:	Arial;
+font-size: x-large;
+}
+
+.category :hover{
+  background-color: #e9e4ea;
+
+  
+}
+
+.category img {
+  border-radius: 0px 40px;
+
+}
